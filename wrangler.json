@@ -10,9 +10,9 @@
 	},
 	"r2_buckets": [
 		{
-			"binding": "bucket",
+			"binding": "wuwenzhen",
 			"bucket_name": "r2-explorer-2",
-			"preview_bucket_name": "r2-explorer-2"
+			"preview_bucket_name": "wuwenzhen"
 		}
 	],
 	"observability": {
